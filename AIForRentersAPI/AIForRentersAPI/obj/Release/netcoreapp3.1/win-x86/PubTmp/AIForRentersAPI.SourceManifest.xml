@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\Mario\source\repos\AIForRentersAPI\AIForRentersAPI\obj\Release\netcoreapp3.1\win-x86\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\Mario\source\repos\AIForRentersAPI\AIForRentersAPI\obj\Release\netcoreapp3.1\win-x86\PubTmp\EFSQLScripts\AIForRentersAPI.Models.AIForRentersDbContext.sql" />
+</sitemanifest>

@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/air2020/databases/SE20E01_DB",
+      "type": "mssql.azure",
+      "connectionId": "Database",
+      "secretStore": "AzureAppSettings"
+    },
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/air2020api/apis/mrent",
+      "type": "apis.azure",
+      "apiEndpoint": "https://air2020api.azure-api.net/"
+    }
+  }
+}
